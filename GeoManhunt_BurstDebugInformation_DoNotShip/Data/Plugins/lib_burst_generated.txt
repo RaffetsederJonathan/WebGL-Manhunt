@@ -10,6 +10,7 @@ Library: E:\UnityProjects\GeoManHunt\GeoManhunt\Temp\BurstOutput\Data\Plugins\li
 --target-framework=NetFramework
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=E:\UnityProjects\GeoManHunt\GeoManhunt\Temp\Burst
+--debug=Full
 --generate-static-linkage-methods
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.4.4f1/Editor/Data/PlaybackEngines/WebGLSupport
 --decode-folder=E:\UnityProjects\GeoManHunt\GeoManhunt\Library\Burst
@@ -129,6 +130,7 @@ Library: E:\UnityProjects\GeoManHunt\GeoManhunt\Temp\BurstOutput\Data\Plugins\li
 --float-mode=Fast
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=E:\UnityProjects\GeoManHunt\GeoManhunt\Temp\Burst
+--debug=Full
 --generate-static-linkage-methods
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.4.4f1/Editor/Data/PlaybackEngines/WebGLSupport
 --decode-folder=E:\UnityProjects\GeoManHunt\GeoManhunt\Library\Burst
@@ -148,6 +150,7 @@ Library: E:\UnityProjects\GeoManHunt\GeoManhunt\Temp\BurstOutput\Data\Plugins\li
 --target-framework=NetFramework
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=E:\UnityProjects\GeoManHunt\GeoManhunt\Temp\Burst
+--debug=Full
 --generate-static-linkage-methods
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.4.4f1/Editor/Data/PlaybackEngines/WebGLSupport
 --decode-folder=E:\UnityProjects\GeoManHunt\GeoManhunt\Library\Burst
