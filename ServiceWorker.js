@@ -1,9 +1,9 @@
-const cacheName = "BoniJoniProduction-GeoManhunt-0.0.18";
+const cacheName = "BoniJoniProduction-GeoManhunt-0.0.20";
 const contentToCache = [
     "Build/WebGL-Manhunt.loader.js",
-    "Build/WebGL-Manhunt.framework.js",
-    "Build/WebGL-Manhunt.data",
-    "Build/WebGL-Manhunt.wasm",
+    "Build/WebGL-Manhunt.framework.js.br",
+    "Build/WebGL-Manhunt.data.br",
+    "Build/WebGL-Manhunt.wasm.br",
     "TemplateData/style.css"
 
 ];
